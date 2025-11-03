@@ -1,1 +1,3 @@
-v=Testing
+version=1.0
+
+TESTING
